@@ -1,12 +1,12 @@
-# Supera-Frontend ⚛
-> Frontend da aplicação requisitada como parte do processo seletivo
+# Extrato-Financeiro ⚛
+Extrato Financeiro feito em Spring e React.js
 
 ### Tecnologias utilizadas 👩‍🚀
 - React.js
 - Bootstrap
 
 ### Projeto 💻
-> O projeto trata-se de uma aplicação web full stack que possui no backend um banco de dados em memória com informações bancárias de transações de determinados clientes . Já no front-end, a demonstração formatada dessas informações.
+O projeto trata-se de uma aplicação web full stack que possui no backend um banco de dados em memória com informações bancárias de transações de determinados clientes . Já no front-end, a demonstração formatada dessas informações.
 
 ### Instalação 🧰
 > 1. Importe a pasta backend em sua IDE de preferência (Recomendados: STS e Intellij);
