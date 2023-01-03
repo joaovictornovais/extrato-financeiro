@@ -1,8 +1,9 @@
 # Extrato-Financeiro ⚛
-Extrato Financeiro feito em Spring e React.js
+Resumo de operações bancárias
 
 ### Tecnologias utilizadas 👩‍🚀
 - React.js
+- Spring
 - Bootstrap
 
 ### Projeto 💻
